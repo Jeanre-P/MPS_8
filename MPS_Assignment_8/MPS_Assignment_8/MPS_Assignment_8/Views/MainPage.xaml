@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MPS_Assignment_8.MainPage">
+
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Street Express" HorizontalTextAlignment="Center" TextColor="White" FontSize="35"  BackgroundColor="#2196F3" Padding="5" />
+
+            <Label Text="Full Name" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <Entry Placeholder="" />
+
+            <Label Text="Gender" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <Entry Placeholder="" />
+
+            <Label Text="T-Shirt Size" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <Entry Placeholder="" />
+
+            <Label Text="Date Of Order" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <DatePicker />
+
+            <Label Text="T-Shirt Colour" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <Entry Placeholder="" />
+
+            <Label Text="Shipping Address" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20" BackgroundColor="Gray" />
+            <Entry Placeholder="Address Line 1" />
+            <Entry Placeholder="Address Line 2" />
+            <Entry Placeholder="Town" />
+            <Entry Placeholder="Province" />
+            <Entry Placeholder="Postal Code" Keyboard="Numeric" />
+
+            <Button Text="Submit Order" BackgroundColor="#2196F3" Clicked="On1ButtonClicked" />
+
+            <Button Text="Order Log" BackgroundColor="#2196F3" Clicked="On2ButtonClicked" />
+
+            <ListView x:Name="peopleList"
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell Height="30">
+                        <StackLayout Padding="5">
+                            <Label Text="{Binding Fullname}" />
+                            <Label Text="{Binding Gender}" />
+                            <Label Text="{Binding Tshirtsize}" />
+                            <Label Text="{Binding Dateoforder}" />
+                            <Label Text="{Binding Tshirtcolour}" />
+                            <Label Text="{Binding Shippingaddress}" />
+                            
+                            <Label x:Name="statusMessage"
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </StackLayout>
+    </ScrollView>
+    
+</ContentPage>

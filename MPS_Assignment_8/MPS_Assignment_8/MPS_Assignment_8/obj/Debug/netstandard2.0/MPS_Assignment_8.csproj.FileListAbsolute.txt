@@ -1,0 +1,14 @@
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\bin\Debug\netstandard2.0\MPS_Assignment_8.deps.json
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\bin\Debug\netstandard2.0\MPS_Assignment_8.dll
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\bin\Debug\netstandard2.0\ref\MPS_Assignment_8.dll
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\bin\Debug\netstandard2.0\MPS_Assignment_8.pdb
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.csprojAssemblyReference.cache
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.AssemblyInfoInputs.cache
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.AssemblyInfo.cs
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.csproj.CoreCompileInputs.cache
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.dll
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\ref\MPS_Assignment_8.dll
+C:\Users\JeanrePeacock\source\repos\MPS_Assignment_8\MPS_Assignment_8\MPS_Assignment_8\obj\Debug\netstandard2.0\MPS_Assignment_8.pdb
